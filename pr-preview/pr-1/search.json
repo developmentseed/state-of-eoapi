@@ -32,7 +32,21 @@
     "href": "index.html#anecdotes",
     "title": "State of eoAPI",
     "section": "Anecdotes",
-    "text": "Anecdotes\n\nsensible defaults FTW\n\nmakes it easy to quickly demonstrate the capabilities of eoAPI\n\nKudos\n\n@emmanuel is on a roll! Montandon + IFRC is an excellent example\n@ali provided some excellent feedback"
+    "text": "Anecdotes"
+  },
+  {
+    "objectID": "index.html#sensible-defaults-ftw",
+    "href": "index.html#sensible-defaults-ftw",
+    "title": "State of eoAPI",
+    "section": "sensible defaults FTW",
+    "text": "sensible defaults FTW\n\nmakes it easy to quickly demonstrate the capabilities of eoAPI"
+  },
+  {
+    "objectID": "index.html#kudos",
+    "href": "index.html#kudos",
+    "title": "State of eoAPI",
+    "section": "Kudos",
+    "text": "Kudos\n\nthe eoapi-k8s team is on a roll!\n@emmanuel is doing an amazing job pushing the limits of eoapi-k8s, Montandon + IFRC is an excellent example\n@ali provided some excellent feedback from recent deployment experience\n@gadomski and @yellowcap have been doing a great job flagging helpful features for new projects"
   },
   {
     "objectID": "index.html#documentation",
