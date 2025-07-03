@@ -30,6 +30,9 @@ title-slide-attributes:
 # what even is eoAPI?
 
 ##
+![](./images/meme.jpg){.r-stretch}
+
+##
 ![](https://github.com/developmentseed/eoAPI/raw/main/docs/logos/eoAPI.png){.r-stretch}
 
 ##
@@ -148,7 +151,9 @@ You might want to use eoAPI if...
   
   - @ali provided some excellent feedback
 
-## Next steps
+# Next steps
+
+## documentation
 
 - Improve documentation to highlight differences between eoapi-cdk and eoapi-k8s
 
@@ -156,8 +161,15 @@ You might want to use eoAPI if...
   
   - they have different features, different developers, etc
 
-- Virtual Workshop? Greater reach than in-person, easier to record and share
+## workshops
+
+- planned/completed
 
   - FedGeoDay 2025: [eoapi-fedgeoday25-workshop](https://github.com/developmentseed/eoapi-fedgeoday25-workshop)
 
   - [upcoming] FOSS4GNA
+
+- Virtual Workshop? 
+  - greater reach than in-person, easier to record and share
+
+# Thank you!
