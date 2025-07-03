@@ -141,15 +141,21 @@ You might want to use eoAPI if...
 
 ## Anecdotes
 
-- sensible defaults FTW
+
+## sensible defaults FTW
 
   - makes it easy to quickly demonstrate the capabilities of eoAPI
 
 
-- Kudos
-  - @emmanuel is on a roll! Montandon + IFRC is an excellent example
+## Kudos
+
+  - the eoapi-k8s team is on a roll! 
+
+  - @emmanuel is doing an amazing job pushing the limits of eoapi-k8s, Montandon + IFRC is an excellent example
   
-  - @ali provided some excellent feedback
+  - @ali provided some excellent feedback from recent deployment experience
+
+  - @gadomski and @yellowcap have been doing a great job flagging helpful features for new projects
 
 # Next steps
 
