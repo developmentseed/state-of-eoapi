@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "State of eoAPI",
+    "section": "",
+    "text": "You might want to use eoAPI if…\n\nyou have geospatial data that you want to serve to client applications\ndepending on the data formats and visualization needs, eoAPI could be a helpful building block\nyou are a geospatial person not an infrastructure wizard"
+  },
+  {
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
+    "title": "State of eoAPI",
+    "section": "",
+    "text": "makes the configuration of these components ‘importable’\n“years of wisdom baked into one tool” - @ali"
+  },
+  {
+    "objectID": "index.html#exciting-developments",
+    "href": "index.html#exciting-developments",
+    "title": "State of eoAPI",
+    "section": "exciting developments",
+    "text": "exciting developments\n\npgbouncer connection pooling\nevent-driven STAC item/collection loading infrastructure\n\nS3 events + SNS + SQS + Lambda\n\nsimplified default runtimes to improve maintainability\nfuture improvements:\n\nLambda SnapStart runtime: reduces titiler-pgstac cold start time from ~6.4 seconds to ~1.5 seconds [ref]\n\n\n\n\nhttps://github.com/developmentseed/eoapi-cdk/releases"
+  },
+  {
+    "objectID": "index.html#exciting-developments-1",
+    "href": "index.html#exciting-developments-1",
+    "title": "State of eoAPI",
+    "section": "exciting developments",
+    "text": "exciting developments\n\nUnified Database Architecture\nIngress System Improvements\nService Architecture Enhancements\nNew features:\n\nIntegrated STAC Browser\nAzure secret vault integration\nArtifactHub.io integration\nin development: stac-auth-proxy integration!\n\n\n\nhttps://github.com/developmentseed/eoapi-k8s/releases"
+  },
+  {
+    "objectID": "index.html#anecdotes",
+    "href": "index.html#anecdotes",
+    "title": "State of eoAPI",
+    "section": "Anecdotes",
+    "text": "Anecdotes\n\nsensible defaults FTW\n\nmakes it easy to quickly demonstrate the capabilities of eoAPI\n\nKudos\n\n@emmanuel is on a roll! Montandon + IFRC is an excellent example\n@ali provided some excellent feedback"
+  },
+  {
+    "objectID": "index.html#documentation",
+    "href": "index.html#documentation",
+    "title": "State of eoAPI",
+    "section": "documentation",
+    "text": "documentation\n\nImprove documentation to highlight differences between eoapi-cdk and eoapi-k8s\n\nprovide guidance on the main structural differences: cost, flexibility, etc\nthey have different features, different developers, etc"
+  },
+  {
+    "objectID": "index.html#workshops",
+    "href": "index.html#workshops",
+    "title": "State of eoAPI",
+    "section": "workshops",
+    "text": "workshops\n\nplanned/completed\n\nFedGeoDay 2025: eoapi-fedgeoday25-workshop\n[upcoming] FOSS4GNA\n\nVirtual Workshop?\n\ngreater reach than in-person, easier to record and share"
+  }
+]
