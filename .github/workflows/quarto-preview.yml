@@ -31,7 +31,7 @@ jobs:
         run: |
           uv run quarto render .
 
-      # - name: Deploy PR Preview
-      #   uses: rossjrw/pr-preview-action@v1.4.8
-      #   with:
-      #     source-dir: ./_site/
+      - name: Deploy PR Preview
+        uses: rossjrw/pr-preview-action@v1.4.8
+        with:
+          source-dir: ./_site/
