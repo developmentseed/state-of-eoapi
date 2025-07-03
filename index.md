@@ -133,9 +133,9 @@ You might want to use eoAPI if...
 
 - Felix started a [survey](https://docs.google.com/document/d/1eqgYPGC31RXLHf9FOTwzdH1r8RqNw1GjkXD42bsJKPg/edit?tab=t.0) to summarize known deployments 
 
-- 10 deployments that DevSeed is involved with
+- ~12 deployments that DevSeed is involved with
   
-  - 6 eoapi-k8s, 4 eoapi-cdk
+  - 7 eoapi-k8s, 5 eoapi-cdk
 
 - WAG: probably dozens of deployments that DevSeed is not involved with
 
